@@ -1,0 +1,1 @@
+java -jar task1.jar offices.txt 90000 ops1.txt ops2.txt ops3.txt
